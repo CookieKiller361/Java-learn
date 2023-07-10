@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0332fe15-3feb-4f83-9a8f-6543afc7bb45" name="Changes" comment="Added">
-      <change afterPath="$PROJECT_DIR$/src/KlassenVererbung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScannerTest.java" afterDir="false" />
+    <list default="true" id="0332fe15-3feb-4f83-9a8f-6543afc7bb45" name="Changes" comment="Added ScannerTest program">
+      <change afterPath="$PROJECT_DIR$/src/RandomLibraryTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,28 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="KlassenVererbung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KlassenVererbung" />
-      <module name="Java-learn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.KlassenVererbung" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,7 +64,23 @@
       <option name="project" value="LOCAL" />
       <updated>1689010954272</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added KlassenVererbung Test">
+      <option name="closed" value="true" />
+      <created>1689016851611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689016851611</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added ScannerTest program">
+      <option name="closed" value="true" />
+      <created>1689016875585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689016875585</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup new Repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup new Repo" />
+    <MESSAGE value="Added KlassenVererbung Test" />
+    <MESSAGE value="Added ScannerTest program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ScannerTest program" />
   </component>
 </project>
