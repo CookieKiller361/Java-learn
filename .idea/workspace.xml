@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0332fe15-3feb-4f83-9a8f-6543afc7bb45" name="Changes" comment="Added ScannerTest program">
-      <change afterPath="$PROJECT_DIR$/src/RandomLibraryTest.java" afterDir="false" />
+    <list default="true" id="0332fe15-3feb-4f83-9a8f-6543afc7bb45" name="Changes" comment="Added Random Library Test program">
       <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,9 +28,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SOHECtP3w255O8AUfUUASSUA6F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -44,7 +48,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689016875585</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Random Library Test program">
+      <option name="closed" value="true" />
+      <created>1689018268658</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689018268658</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,7 +101,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -98,6 +117,11 @@
     <MESSAGE value="Setup new Repo" />
     <MESSAGE value="Added KlassenVererbung Test" />
     <MESSAGE value="Added ScannerTest program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added ScannerTest program" />
+    <MESSAGE value="Added Random Library Test program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Random Library Test program" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

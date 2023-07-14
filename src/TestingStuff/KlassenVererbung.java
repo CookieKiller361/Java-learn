@@ -1,3 +1,5 @@
+package TestingStuff;
+
 public class KlassenVererbung {
      static class Mensch{
         private int alter;

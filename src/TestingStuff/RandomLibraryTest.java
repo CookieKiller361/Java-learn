@@ -1,3 +1,5 @@
+package TestingStuff;
+
 import java.util.Random;
 public class RandomLibraryTest {
     public static void main(String[] args) {
